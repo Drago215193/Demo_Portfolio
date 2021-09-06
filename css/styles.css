@@ -102,14 +102,14 @@ h3 {
 
 .cloud1 {
   position: absolute;
-  right: 250px;
-  top: 50px;
+  right: 18%;
+  top: 15%;
 }
 
 .cloud2 {
   position: absolute;
-  left: 280px;
-  bottom: 325px;
+  left: 22.5%;
+  bottom: 45%;
 }
 
 .land {
